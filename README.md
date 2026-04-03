@@ -22,16 +22,8 @@ speech signal.
 |---|---|
 | `SP-lab1.pdf` | Lab manual (compiled PDF, ready to read) |
 | `task4_vowel_analysis.ipynb` | Python notebook for Task 4 (vowel analysis) |
-
-
-### Audio Data
-
-The audio corpora (`vowels.zip`) is too large for the repository.
-Download them from the **[Releases page](https://github.com/Elleida/SP-lab1/releases/latest)**:
-
-| File | Contents | Size |
-|---|---|---|
-| `vowels.zip` | Vowel recordings — female | male speakers | ~35 MB |
+| `malefiles.zip` | Vowel recordings — male speakers (~16 MB) |
+| `femalefiles.zip` | Vowel recordings — female speakers (~18 MB) |
 
 ---
 
