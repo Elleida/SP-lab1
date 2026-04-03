@@ -26,13 +26,12 @@ speech signal.
 
 ### Audio Data
 
-The audio corpora (`femalefiles.zip` and `malefiles.zip`) are too large for the repository.
+The audio corpora (`vowels.zip`) is too large for the repository.
 Download them from the **[Releases page](https://github.com/Elleida/SP-lab1/releases/latest)**:
 
 | File | Contents | Size |
 |---|---|---|
-| `femalefiles.zip` | Vowel recordings — female speakers | ~25 MB |
-| `malefiles.zip` | Vowel recordings — male speakers | ~25 MB |
+| `vowels.zip` | Vowel recordings — female | male speakers | ~35 MB |
 
 ---
 
