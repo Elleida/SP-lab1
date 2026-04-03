@@ -82,7 +82,6 @@ The lab manual includes self-contained theoretical sections covering:
 
 - The **Source-Filter Model** ($S(f) = G(f) \cdot V(f) \cdot R(f)$) and its LPC formulation.
 - **Formants** and the vowel quadrilateral ($F_1$ ↔ tongue height, $F_2$ ↔ tongue backness).
-- The **Cepstrum** as a tool for source-filter separation.
 - **Prosody**: intonation ($F_0$), prominence (intensity + duration), and rhythm.
 - **GMM** clustering and model selection with BIC.
 
