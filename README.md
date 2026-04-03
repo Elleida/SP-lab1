@@ -23,7 +23,6 @@ speech signal.
 | `SP-lab1.pdf` | Lab manual (compiled PDF, ready to read) |
 | `task4_vowel_analysis.ipynb` | Python notebook for Task 4 (vowel analysis) |
 
-> The LaTeX source (`SP-lab1.tex`) is not included in the public repository.
 
 ### Audio Data
 
